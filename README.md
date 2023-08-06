@@ -11,6 +11,6 @@ We decided to hire Jo for 10 hours. The total wage is 1.9 Ether. After clicking 
 ![](Images/transactions.png)
 ![](Images/transaction_details.png)
 
-The balance of Jo's account is increased by 1.9 Ether:
+The balance of Jo's account is increased by 1.9 Ether after this transaction:
 
 ![](Images/recipient.png)
