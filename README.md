@@ -2,7 +2,7 @@
 
 In this project, we build an application called KryptoJobs2Go. The customers can use the application to find fintech professionals from among a list of candidates.
 
-After launching the KryptoJobs2Go application through `streamlit run krypto_jobs.py`, we see there are 4 fintech professionals that are available to be hired. Their Ethereum account addresses, KryptoJobs2Go ratings, hourly rates per Ether are also shown.
+After launching the KryptoJobs2Go application through `streamlit run krypto_jobs.py`, we see there are four fintech professionals available to be hired. Their Ethereum account addresses, KryptoJobs2Go ratings, hourly rates per Ether are also shown.
 
 ![](Images/KryptoJobs2Go.png)
 
